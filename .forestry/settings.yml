@@ -24,8 +24,6 @@ sections:
   path: FIRSTSTEPS.md
   label: First Steps
   read_only: true
-- type: heading
-  label: EndOfLine
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
